@@ -1,2 +1,2 @@
-Repository for Practicing Python
-\n *Takeo Bootcamp*
+## Repository for Practicing Python:
+*Takeo Bootcamp*
