@@ -1,0 +1,11 @@
+number = int(input("Enter the number: "))
+sum = 0
+counter = 1
+while number != 0:
+    sum += number
+    number = int(input("Enter the number once again: "))
+    if number != 0:
+        counter += 1
+else:
+    average = sum / counter
+    print(f"Sum of numbers you entered is {sum} and the average is {average}")
