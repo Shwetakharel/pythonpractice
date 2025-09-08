@@ -1,0 +1,11 @@
+# Print a square of stars (5×5):
+for i in range(1, 6):
+    for j in range(1, 6):
+        print("*", end=" ")
+    print()
+
+# Print a right-angled triangle of stars (rows = 5):
+for i in range(1, 6):
+    for j in range(i):
+        print("*", end=" ")
+    print()
